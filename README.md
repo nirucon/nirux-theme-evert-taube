@@ -9,7 +9,7 @@ A NIRUX suite theme pack based on the Evert Taube night wallpaper.
 - Muted: `#a89b89`
 - Border: `#332c25`
 - Focus: `#b45a48`
-- Wallpaper: `nirux-wallpaper-evert-taube-4k.png` (1536×1024 source)
+- Wallpaper: `nirux-wallpaper-evert-taube-4k.png` (3840×2160)
 
 ## Install
 
